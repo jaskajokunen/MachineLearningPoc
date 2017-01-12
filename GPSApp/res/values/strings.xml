@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToastShower</string>
+    <string name="notification_activity_name">Test Activity</string>
+    <string name="arr_time">Arrival time:</string>
+    <string name="web_service_time">Predicted time:</string>
+    <string name="time_left_show_toast">When toast is shown:</string>
+	<string name="gps_enabled">GPS Enabled</string>
+	<string name="gps_disabled">GPS Disabled</string>
+    <string name="action_settings">Settings</string>
+    <string name= "dest_text">You have arrived to your destination!</string>
+    <string name="alert_text">Alert texts will be displayed here </string>
+
+</resources>

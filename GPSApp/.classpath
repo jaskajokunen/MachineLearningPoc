@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="C:/Users/Joonas/Desktop/Android/adt-bundle-windows-x86_64-20131030/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joonas/Desktop/Lopputyo/Android/jackson-all-1.9.9.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
